@@ -1,43 +1,28 @@
-Hi, I'm Shruthi! 👋
+# 💫 About Me
 
-I am an Information Science and Engineering student at Siddaganga Institute of Technology with a strong interest in software engineering, backend development, and problem solving.
+Hi, I'm Shruthi G S, an Information Science and Engineering student at Siddaganga Institute of Technology with a strong interest in software engineering, backend development, and problem-solving.
 
-I actively practice Data Structures and Algorithms and have solved over 300 problems on LeetCode. I am currently strengthening my expertise in Java, Spring Boot, and backend engineering while developing practical applications that address real-world problems.
+💻 I enjoy building practical applications that solve real-world problems, writing clean and efficient code, and exploring new technologies. I actively practice Data Structures and Algorithms and have solved **300+ problems on LeetCode**.
 
-Technical Skills
+🚀 Currently strengthening my expertise in **Java, Spring Boot, and Backend Development** while exploring scalable systems, cloud technologies, and Generative AI.
 
-Programming Languages: Java, Python, C, C++, SQL
+🛠️ I love turning ideas into working applications, collaborating on projects, and continuously improving my technical skills. My goal is to build reliable, scalable software and grow as a software engineer.
 
-Core Computer Science: Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks
+## ⚡ Technical Skills
 
-Backend Development: Spring Boot, FastAPI, REST APIs
+- **Languages:** Java, Python, C, C++, SQL
+- **Core CS:** Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+- **Backend:** Spring Boot, FastAPI, REST APIs
+- **Web Technologies:** HTML, CSS, JavaScript, React
+- **Databases:** MySQL, SQLite
+- **Tools and Technologies:** Git, GitHub, Docker, AWS, LangChain
 
-Web Technologies: HTML, CSS, JavaScript, React
+## 📬 Connect With Me
 
-Databases: MySQL, SQLite
+- 💼 **LinkedIn:** [Shruthi G S](https://www.linkedin.com/in/shruthigs083/)
+- 🧩 **LeetCode:** [Shruthigs](https://leetcode.com/u/Shruthigs/)
+- 📧 **Email:** [shruthigs083@gmail.com](mailto:shruthigs083@gmail.com)
 
-Tools and Technologies: Git, GitHub, Docker, AWS, LangChain
+---
 
-Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/shruthigs083/
-
-LeetCode: https://leetcode.com/u/Shruthigs/
-
-G-mail: shruthigs083@gmail.com
-
-
-<!--
-**shruthigs083/shruthigs083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Always learning, building, and striving to create meaningful technology.*
