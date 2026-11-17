@@ -42,38 +42,6 @@
 
 ---
 
-## Stuff I've Built
-
-### EasyBank
-**What it is:** A simulated online banking web application where users can explore account access, money transfers, transaction history and bill payments, with JWT-based authentication and multilingual support.
-
-**Stack:** <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express.js, MongoDB" align="absmiddle" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" align="absmiddle" />
-
-**Repository:** `TODO: add the EasyBank repository link here`
-
-### [SafeHerAI](https://github.com/shruthigs083/SafeHerAI)
-**What it is:** An AI-powered women's safety platform designed to support users during emergency situations, focused on safety assistance, emergency response and AI-powered features.
-
-<!-- TODO: add a "Stack:" line for SafeHerAI after checking the repository -->
-
-### [Smart Recruitment System](https://github.com/shruthigs083/Smart-Recruitment-System)
-**What it is:** An AI-powered recruitment platform that simplifies recruitment and placement, with resume analysis, candidate-job matching and application management.
-
-**Stack:** <img src="https://skillicons.dev/icons?i=react,js,html,css,vite&theme=dark" alt="React, JavaScript, HTML, CSS, Vite" align="absmiddle" /> <img src="https://img.shields.io/badge/Lucide_React-F56565?style=flat-square" alt="Lucide React" align="absmiddle" />
-
-### [Virtual Health Assistant](https://github.com/shruthigs083/virtual-health-assistance) 🏆
-**What it is:** An AI-assisted healthcare support platform offering preliminary symptom analysis, severity prediction, health guidance, voice interaction, location detection and nearby hospital discovery. **3rd place at Hackaphasia** among 150 teams.
-
-**Stack:** <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" align="absmiddle" />
-<!-- TODO: add the AI/ML, voice and geolocation technologies once confirmed from the implementation -->
-
-### [Docker TestApp](https://github.com/shruthigs083/Docker_testapp)
-**What it is:** A containerized web application demonstrating Docker-based deployment and MongoDB integration, with a student registration interface that connects a backend to a database using containers.
-
-**Stack:** <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,docker&theme=dark" alt="HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Docker" align="absmiddle" /> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" align="absmiddle" />
-
----
-
 ## Technologies & Tools
 
 **Languages**<br />
@@ -101,13 +69,43 @@ I've solved **300+ problems on LeetCode** and I keep at it to stay sharp on data
 
 ---
 
+## Stuff I've Built
+
+### [EasyBank](https://github.com/shruthigs083/Easy_Bank.git)
+**What it is:** A simulated online banking web application where users can explore account access, money transfers, transaction history and bill payments, with JWT-based authentication and multilingual support.
+
+**Stack:** <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express.js, MongoDB" align="absmiddle" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" align="absmiddle" />
+
+### [SafeHerAI](https://github.com/shruthigs083/SafeHerAI)
+**What it is:** An AI-powered women's safety platform designed to support users during emergency situations, focused on safety assistance, emergency response and AI-powered features.
+
+<!-- TODO: add a "Stack:" line for SafeHerAI after checking the repository -->
+
+### [Smart Recruitment System](https://github.com/shruthigs083/Smart-Recruitment-System)
+**What it is:** An AI-powered recruitment platform that simplifies recruitment and placement, with resume analysis, candidate-job matching and application management.
+
+**Stack:** <img src="https://skillicons.dev/icons?i=react,js,html,css,vite&theme=dark" alt="React, JavaScript, HTML, CSS, Vite" align="absmiddle" /> <img src="https://img.shields.io/badge/Lucide_React-F56565?style=flat-square" alt="Lucide React" align="absmiddle" />
+
+### [Virtual Health Assistant](https://github.com/shruthigs083/virtual-health-assistance) 🏆
+**What it is:** An AI-assisted healthcare support platform offering preliminary symptom analysis, severity prediction, health guidance, voice interaction, location detection and nearby hospital discovery. **3rd place at Hackaphasia** among 150 teams.
+
+**Stack:** <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" align="absmiddle" />
+<!-- TODO: add the AI/ML, voice and geolocation technologies once confirmed from the implementation -->
+
+### [Docker TestApp](https://github.com/shruthigs083/Docker_testapp)
+**What it is:** A containerized web application demonstrating Docker-based deployment and MongoDB integration, with a student registration interface that connects a backend to a database using containers.
+
+**Stack:** <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,docker&theme=dark" alt="HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Docker" align="absmiddle" /> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" align="absmiddle" />
+
+---
+
 ## Achievements
 
 - 🏆 Secured **3rd place at Hackaphasia** among 150 participating teams for the [Virtual Health Assistant](https://github.com/shruthigs083/virtual-health-assistance) project.
 
 ---
 
-## Contact
+## Contact Me
 
 - **LinkedIn:** [linkedin.com/in/shruthigs083](https://www.linkedin.com/in/shruthigs083/)
 - **LeetCode:** [leetcode.com/u/Shruthigs](https://leetcode.com/u/Shruthigs/)
