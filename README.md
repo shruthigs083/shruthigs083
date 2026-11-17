@@ -1,9 +1,20 @@
 # Hi, I'm Shruthi G S 👋
 
 Information Science and Engineering student at **Siddaganga Institute of Technology**, interested in software engineering, backend development, and building practical applications.
-
-\<p align="left">   \<a href="[https://github.com/shruthigs083](https://github.com/shruthigs083)">     \<img src="[https://img.shields.io/badge/GitHub-shruthigs083-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-shruthigs083-181717?style=for-the-badge\&logo=github)" />   \</a>   \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="mailto\:shruthigs083\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://leetcode.com/](https://leetcode.com/)">     \<img src="[https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" />   \</a> \</p>
-
+<p align="left">
+  <a href="https://github.com/shruthigs083">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shruthigs083@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### A little about me
